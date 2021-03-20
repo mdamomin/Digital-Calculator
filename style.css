@@ -1,0 +1,16 @@
+.calculator {
+    width: 215px;
+    background-color: turquoise;
+    box-sizing: border-box;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#input_display{
+    text-align: right;
+}
+.btn {
+    width: 44px;
+    margin: 2px 0px;
+}
